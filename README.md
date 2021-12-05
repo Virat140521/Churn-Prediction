@@ -7,3 +7,4 @@ This projects is related to finance domain. The main aim of this project to pred
 ## Metadata:
 ...
 
+![](images/588a667fd06f6719692a2d19.png)
