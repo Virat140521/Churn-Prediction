@@ -8,3 +8,5 @@ This projects is related to finance domain. The main aim of this project to pred
 ...
 
 ![](images/588a667fd06f6719692a2d19.png)
+
+<img src="images/588a667fd06f6719692a2d19.png" width="200" height="300">
